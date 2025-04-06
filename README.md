@@ -3,7 +3,7 @@ local Fluent = loadstring(galocal Fluent = loadstring(game:HttpGet("https://gith
 
 local Window = Fluent:CreateWindow({
     Title = "Universal Bolota Hub" .. Fluent.Version,
-    TabWidth = 160, Size = UDim2.fromOffset(580, 460), Theme = "Gray"
+    TabWidth = 160, Size = UDim2.fromOffset(580, 460), Theme = "Dark"
 })
 ?
 local Tabs = {
